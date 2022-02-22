@@ -1,0 +1,13 @@
+[{
+  "title": "Nantucket Orange Juice",
+  "price": 65.76,
+  "id": 1
+}, {
+  "title": "Cheese - Grana Padano",
+  "price": 76.29,
+  "id": 2
+}, {
+  "title": "Jam - Apricot",
+  "price": 10.78,
+  "id": 3
+}]
